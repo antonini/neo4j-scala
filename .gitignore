@@ -3,4 +3,7 @@ target
 .manager
 .idea
 *.i??
-*~
+*~.classpath
+.project
+.settings
+.classpath
